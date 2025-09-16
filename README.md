@@ -1,4 +1,4 @@
-# 🚀 Desafio DIO - Git e GitHub
+🚀 Desafio DIO - Git e GitHub
 
 Este repositório foi criado como parte do desafio de projeto da DIO, com o objetivo de praticar conceitos fundamentais de Git e GitHub, explorando versionamento de código e organização de projetos.
 
